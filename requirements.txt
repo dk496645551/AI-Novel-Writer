@@ -1,3 +1,5 @@
-PyQt5>=5.15.0
-requests>=2.28.0
-markdown>=3.4.0
+PyQt5≥5.15.0
+requests≥2.28.0
+markdown≥3.4.0
+Jinja2≥3.0.0
+python-dotenv≥0.19.0
